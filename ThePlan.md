@@ -30,3 +30,19 @@
 - [ ] 
 - [ ] 
 - [ ] 
+
+
+## General Demo Environment
+
+- [ ] Have a quiet place available
+- [ ] Ensure you have a backup source of power. Not just your laptop battery.
+- [ ] Multiple monitors are your friend.
+- [ ] Demo from a clean "demo" user profile. Clear your desktop
+- [ ] 
+
+
+## Avoid these demo sins
+- [ ] Show absolutely everything the product does before you've done a technical discovery
+- [ ] Arrive to the demo without a plan. Book a pre-call strategy meeting with your AE. Understand who you are presenting to. Look at some tips on walnut.io (https://www.walnut.io/post/7-sales-demo-mistakes-and-how-to-avoid-them)
+- [ ] 
+- [ ] 
