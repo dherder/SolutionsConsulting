@@ -45,4 +45,4 @@
 - [ ] Arrive to the demo without a plan. Book a pre-call strategy meeting with your AE. Understand who you are presenting to. Look at some tips on walnut.io (https://www.walnut.io/post/7-sales-demo-mistakes-and-how-to-avoid-them)
 - [ ] Conduct a product training
 - [ ] Live Troubleshooting
-- [ ] Talk over your prospect. 
+- [ ] Talk over your prospect. https://emissary.io/cardinal-sins-of-sales-demos/
