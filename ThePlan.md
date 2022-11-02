@@ -46,4 +46,3 @@
 - [ ] Conduct a product training
 - [ ] Live Troubleshooting
 - [ ] Talk over your prospect. 
-- [ ] 
